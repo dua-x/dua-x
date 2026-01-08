@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dua-x&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/dua-x/dua-x/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 ### 🔝 Top Contributed Repo
