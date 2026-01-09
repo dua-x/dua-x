@@ -8,16 +8,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dua-x&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dua-x&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dua-x&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
-<p align = "center">
-	<img src = "https://github.com/dua-x/dua-x/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dua-x&limit=5&theme=jolly&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=dua-x&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
